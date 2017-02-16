@@ -1,0 +1,6 @@
+framework module Pods_SwiftCoach {
+  umbrella header "Pods-SwiftCoach-umbrella.h"
+
+  export *
+  module * { export * }
+}
